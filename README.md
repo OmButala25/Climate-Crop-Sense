@@ -54,8 +54,8 @@ streamlit run main.py
 
 ### Dependencies
 - Python 3.x
-- Python basic ML libraries
 - Streamlit
+- Other dependencies specified in `requirements.txt`
 
 ### Contact
 For any issues or questions, please contact the project maintainers.
