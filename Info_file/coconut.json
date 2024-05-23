@@ -1,0 +1,22 @@
+{
+  "coconut_details": {
+    "description": "Coconut is a versatile fruit known for its hard shell, fibrous husk, and nutritious water and meat inside. It is commonly found in tropical regions and is prized for its culinary and non-culinary uses.",
+    "nutritional value": "Coconut water is low in calories and fat-free, while coconut meat is rich in healthy fats, fiber, vitamins, and minerals. It offers hydration, supports digestion, and provides energy.",
+    "cultivation": "Coconuts grow on coconut palm trees in tropical and subtropical regions with sandy soil and abundant sunlight. They require high humidity, ample water, and protection from strong winds.",
+    "uses": "Consumption of coconut water and meat, Cooking oil (coconut oil), Cosmetics, Fiber production (from husk), Construction materials (from shell)"
+  },
+  "prerequisites": {
+    "soil": "Sandy, well-drained soil with good water retention",
+    "climate": "Tropical or subtropical climate with temperatures consistently above 80°F (27°C)",
+    "water": "Regular watering, especially during dry periods, to maintain soil moisture",
+    "humidity": "High humidity, preferably above 60%",
+    "wind_protection": "Protection from strong winds, as they can damage coconut palms and hinder fruit production",
+    "space": "Sufficient space for tree growth, typically 25-30 feet apart for planting."
+  },
+  "average_temperature": {
+    "spring": "75°F to 85°F (24°C to 29°C)",
+    "summer": "80°F to 90°F (27°C to 32°C)",
+    "fall": "75°F to 85°F (24°C to 29°C)",
+    "winter": "70°F to 80°F (21°C to 27°C)"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "orange_details": {
+    "description": "Orange is a citrus fruit known for its bright color, sweet and tangy flavor, and high vitamin C content. It belongs to the Rutaceae family and is cultivated in many tropical and subtropical regions.",
+    "nutritional value": "Oranges are rich in vitamin C, vitamin A, fiber, and antioxidants. They support immune health, promote skin health, aid digestion, and may reduce the risk of chronic diseases.",
+    "uses": "Fresh consumption, Juicing, Salads, Desserts, Marmalade, Flavoring",
+    "varieties": "Navel, Valencia, Blood Orange, Cara Cara, Mandarin Orange",
+    "ripening": "Oranges continue to ripen after being harvested, so they are typically harvested when they reach full color and allowed to ripen at room temperature.",
+    "ripeness indicator": "A ripe orange will feel heavy for its size, have a firm and smooth skin, and yield slightly to gentle pressure when squeezed.",
+    "harvest season": "Oranges are harvested at different times of the year depending on the variety and location. Navel oranges are typically harvested from November to April, while Valencia oranges are harvested from March to July."
+  },
+  "prerequisites": {
+    "soil": "Oranges prefer well-drained, sandy or loamy soil with a slightly acidic to neutral pH (around 6.0 to 7.0).",
+    "climate": "Oranges thrive in subtropical to tropical climates with warm temperatures and plenty of sunlight. They are sensitive to frost and require protection in cooler climates.",
+    "sunlight": "Oranges require full sunlight for optimal growth and fruit development.",
+    "water": "Regular watering, especially during periods of drought or dry weather, to keep the soil consistently moist but not waterlogged.",
+    "space": "Plant orange trees at least 10 to 15 feet apart to allow for proper air circulation and sunlight penetration."
+  },
+  "average_temperature": {
+    "spring": "65°F to 75°F (18°C to 24°C)",
+    "summer": "75°F to 85°F (24°C to 29°C)",
+    "fall": "65°F to 75°F (18°C to 24°C)"
+  }
+}

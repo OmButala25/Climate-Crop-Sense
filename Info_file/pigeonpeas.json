@@ -1,0 +1,21 @@
+{
+  "pigeon_peas_details": {
+    "description": "Pigeon peas, also known as Congo peas or gungo peas, are a type of legume cultivated for their edible seeds. They are a popular food crop in many tropical and subtropical regions.",
+    "nutritional value": "Pigeon peas are rich in protein, dietary fiber, vitamins, and minerals. They are low in fat and cholesterol, making them a healthy addition to a balanced diet.",
+    "uses": "Cooking (curries, soups, stews), Dhal (split pigeon peas), Sprouting",
+    "varieties": "Green pigeon peas, Yellow pigeon peas",
+    "ripening": "Pigeon peas continue to ripen after being harvested, so they are typically harvested when they reach maturity and allowed to dry further.",
+    "harvest season": "Pigeon peas are harvested when the pods are fully mature and dry. The timing varies depending on the variety and growing conditions."
+  },
+  "prerequisites": {
+    "soil": "Pigeon peas prefer well-drained, sandy or loamy soil with good fertility.",
+    "climate": "Pigeon peas thrive in warm climates with temperatures between 70°F to 85°F (21°C to 29°C) during the growing season.",
+    "water": "Pigeon peas require regular watering, especially during flowering and pod development, to keep the soil consistently moist but not waterlogged.",
+    "space": "Plant pigeon pea seeds or seedlings about 1 to 2 inches deep and 6 to 8 inches apart in rows spaced 18 to 24 inches apart."
+  },
+  "average_temperature": {
+    "spring": "70°F to 80°F (21°C to 27°C)",
+    "summer": "75°F to 85°F (24°C to 29°C)",
+    "fall": "70°F to 80°F (21°C to 27°C)"
+  }
+}

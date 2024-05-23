@@ -1,0 +1,20 @@
+{
+  "maize_details": {
+    "description": "Maize, commonly known as corn, is a cereal grain that originated in Mesoamerica and is now cultivated worldwide. It is a staple food for many cultures and has various uses.",
+    "nutritional value": "Maize is rich in carbohydrates, dietary fiber, vitamins, and minerals. It provides energy, supports digestive health, and contains antioxidants.",
+    "uses": "Human consumption (whole kernels, flour, cornmeal), Livestock feed, Ethanol production, Industrial uses (cornstarch, corn syrup)",
+    "varieties": "Sweet corn, Field corn, Flint corn, Dent corn, Popcorn"
+  },
+  "prerequisites": {
+    "soil": "Maize grows best in well-drained, fertile soils with good moisture retention.",
+    "climate": "Maize requires warm temperatures with a growing season of 60 to 100 frost-free days, and consistent moisture during critical growth stages.",
+    "sunlight": "Maize needs full sunlight for optimal growth and development.",
+    "water": "Regular watering, especially during the growing season and tasseling/silking stage.",
+    "space": "Plant maize seeds about 1 to 2 inches deep and 8 to 12 inches apart in rows spaced 24 to 36 inches apart."
+  },
+  "average_temperature": {
+    "spring": "60°F to 70°F (15°C to 21°C)",
+    "summer": "70°F to 85°F (21°C to 29°C)",
+    "fall": "60°F to 70°F (15°C to 21°C)"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "papaya_details": {
+    "description": "Papaya is a tropical fruit known for its sweet, orange flesh and black seeds encased in a green or yellow skin. It belongs to the Caricaceae family and is native to the tropical regions of the Americas.",
+    "nutritional value": "Papaya is rich in vitamin C, vitamin A, fiber, and antioxidants such as beta-carotene and lycopene. It supports digestive health, boosts immune function, and may reduce the risk of chronic diseases.",
+    "uses": "Fresh consumption, Juicing, Smoothies, Salads, Desserts, Sauces",
+    "varieties": "Solo, Maradol, Sunrise, Hawaiian, Red Lady",
+    "ripening": "Papayas continue to ripen after being harvested, so they are typically harvested when they reach maturity and allowed to ripen at room temperature.",
+    "ripeness indicator": "A ripe papaya will have a slightly soft texture when gently pressed, a sweet aroma, and skin that yields to pressure.",
+    "harvest season": "Papayas can be harvested year-round in tropical climates. However, they have peak seasons depending on the variety and location."
+  },
+  "prerequisites": {
+    "soil": "Papayas prefer well-drained, sandy or loamy soil with good fertility and a slightly acidic to neutral pH (around 6.0 to 7.0).",
+    "climate": "Papayas thrive in tropical to subtropical climates with warm temperatures (around 75°F to 90°F or 24°C to 32°C) and high humidity.",
+    "sunlight": "Papayas require full sunlight for optimal growth and fruit development.",
+    "water": "Regular watering, especially during periods of drought or dry weather, to keep the soil consistently moist but not waterlogged.",
+    "space": "Plant papaya trees at least 8 to 10 feet apart to allow for proper air circulation and sunlight penetration."
+  },
+  "average_temperature": {
+    "spring": "75°F to 85°F (24°C to 29°C)",
+    "summer": "80°F to 90°F (27°C to 32°C)",
+    "fall": "75°F to 85°F (24°C to 29°C)"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "apple_details": {
+    "description": "Apple is a popular fruit known for its sweet taste and crisp texture. It comes in various varieties, each with its own flavor profile and uses.",
+    "nutritional value": "Apples are rich in dietary fiber, antioxidants, and vitamin C. They are known to promote heart health, aid digestion, and boost immunity.",
+    "cultivation": "Apples are grown on deciduous trees in temperate climates around the world. They require well-drained soil, adequate sunlight, and regular pruning for optimal growth and fruit production.",
+    "varieties": "Granny Smith, Red Delicious, Fuji, Gala, Honeycrisp",
+    "uses": "Fresh consumption, Cooking, Baking, Juicing"
+  },
+  "prerequisites": {
+    "soil": "Well-drained, loamy soil with pH between 6.0 and 7.0",
+    "climate": "Temperate climate with cold winters and moderate summers",
+    "pollination": "Cross-pollination is often necessary, so planting multiple varieties or having compatible pollinators nearby is recommended.",
+    "space": "Sufficient space for tree growth and sunlight exposure, typically 6-8 feet apart for planting."
+  },
+  "average_temperature": {
+    "spring": "45°F to 65°F (7°C to 18°C)",
+    "summer": "65°F to 85°F (18°C to 29°C)",
+    "fall": "45°F to 65°F (7°C to 18°C)",
+    "winter": "20°F to 45°F (-6°C to 7°C)"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "pomegranate_details": {
+    "description": "Pomegranate is a fruit-bearing deciduous shrub or small tree known for its distinctive ruby-red arils encased in a tough, leathery skin. It belongs to the family Lythraceae and is native to the Middle East.",
+    "nutritional value": "Pomegranate arils are rich in antioxidants, vitamins (especially vitamin C and vitamin K), dietary fiber, and minerals (such as potassium). They support heart health, boost immunity, and may have anti-inflammatory effects.",
+    "uses": "Fresh consumption, Juicing, Salads, Sauces, Desserts",
+    "varieties": "Wonderful, Haku Botan, Ambrosia, Eversweet, Red Silk",
+    "ripening": "Pomegranates do not ripen further after being harvested, so they are typically harvested when fully ripe.",
+    "ripeness indicator": "A ripe pomegranate will have a firm, rounded shape, vibrant color, and heavy weight for its size.",
+    "harvest season": "Pomegranates are typically harvested in the fall, but the exact timing varies depending on the variety and growing conditions."
+  },
+  "prerequisites": {
+    "soil": "Pomegranates prefer well-drained, sandy or loamy soil with good fertility and a slightly acidic to neutral pH (around 5.5 to 7.0).",
+    "climate": "Pomegranates thrive in Mediterranean climates with hot, dry summers and cool, wet winters. They can tolerate drought but require some chilling hours in winter for flower bud development.",
+    "sunlight": "Pomegranates require full sunlight for optimal growth and fruit production.",
+    "water": "Pomegranates are drought-tolerant once established but require regular watering, especially during the flowering and fruiting stages.",
+    "space": "Plant pomegranate trees at least 10 to 12 feet apart to allow for proper air circulation and sunlight penetration."
+  },
+  "average_temperature": {
+    "spring": "60°F to 70°F (15°C to 21°C)",
+    "summer": "75°F to 85°F (24°C to 29°C)",
+    "fall": "60°F to 70°F (15°C to 21°C)"
+  }
+}

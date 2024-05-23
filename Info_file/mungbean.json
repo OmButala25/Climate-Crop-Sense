@@ -1,0 +1,20 @@
+{
+  "mung_beans_details": {
+    "description": "Mung beans, also known as green gram or golden gram, are small, green legumes native to the Indian subcontinent. They are widely cultivated for their edible seeds, which are a staple food in many cuisines.",
+    "nutritional value": "Mung beans are rich in protein, dietary fiber, vitamins (especially folate and vitamin B6), and minerals (such as iron, magnesium, and potassium). They are low in fat and calories.",
+    "uses": "Cooking (curries, soups, stews), Sprouting, Bean noodles, Flour production",
+    "varieties": "Whole mung beans, Split mung beans, Sprouting mung beans"
+  },
+  "prerequisites": {
+    "soil": "Mung beans prefer well-drained sandy loam or loamy soil with good fertility.",
+    "climate": "Mung beans thrive in warm climates with temperatures ranging from 70°F to 85°F (21°C to 29°C) during the growing season.",
+    "water": "Mung beans require regular watering, keeping the soil consistently moist but not waterlogged.",
+    "frost": "Mung beans are sensitive to frost and should be planted after the last frost date.",
+    "space": "Plant mung bean seeds about 1 to 2 inches deep and 4 to 6 inches apart in rows spaced 12 to 18 inches apart."
+  },
+  "average_temperature": {
+    "spring": "70°F to 80°F (21°C to 27°C)",
+    "summer": "75°F to 85°F (24°C to 29°C)",
+    "fall": "70°F to 80°F (21°C to 27°C)"
+  }
+}

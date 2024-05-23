@@ -1,0 +1,22 @@
+{
+  "grapes_details": {
+    "description": "Grapes are small, round berries that grow in clusters on deciduous woody vines. They are cultivated for consumption as fresh fruit, for making wine, juice, jelly, and raisins.",
+    "nutritional value": "Grapes are rich in vitamins, especially vitamin C and vitamin K, as well as antioxidants and dietary fiber. They promote heart health, aid digestion, and support immune function.",
+    "cultivation": "Grapes are grown in temperate regions around the world. They require well-drained soil, ample sunlight, and a long, warm growing season.",
+    "varieties": "Table grapes, Wine grapes, Seedless grapes, Concord grapes, Thompson Seedless",
+    "uses": "Fresh consumption, Winemaking, Juicing, Drying (raisins), Cooking"
+  },
+  "prerequisites": {
+    "soil": "Well-drained soil with good fertility and pH between 5.5 and 7.0",
+    "climate": "Temperate climate with warm summers and mild winters, with temperatures ranging between 60°F to 95°F (15°C to 35°C) during the growing season.",
+    "sunlight": "Grapes require full sunlight for optimal growth and fruit ripening.",
+    "water": "Regular watering, especially during the growing season and fruit development, while avoiding excessive moisture that can lead to fungal diseases.",
+    "pruning": "Regular pruning is essential to control vine growth, improve air circulation, and promote fruit production.",
+    "space": "Sufficient spacing between vines for airflow and sunlight penetration, typically 6 to 10 feet apart in rows spaced 8 to 12 feet apart."
+  },
+  "average_temperature": {
+    "spring": "55°F to 70°F (13°C to 21°C)",
+    "summer": "70°F to 85°F (21°C to 29°C)",
+    "fall": "55°F to 70°F (13°C to 21°C)"
+  }
+}

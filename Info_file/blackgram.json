@@ -1,0 +1,21 @@
+{
+  "blackgram_details": {
+    "description": "Black gram, also known as urad bean or black lentil, is a type of pulse cultivated for its edible seeds. It is a staple ingredient in South Asian cuisine.",
+    "nutritional value": "Black gram is rich in protein, dietary fiber, iron, and calcium. It provides essential nutrients and is beneficial for overall health.",
+    "cultivation": "Black gram is primarily grown in tropical and subtropical regions with well-drained, sandy-loam soil. It requires warm temperatures and moderate rainfall.",
+    "varieties": "T9, Uttara, PU 31, Pant U 19, Vamban 5",
+    "uses": "Cooking (dal), Sprouting, Ground into flour for making breads and snacks"
+  },
+  "prerequisites": {
+    "soil": "Well-drained, sandy-loam soil with pH between 6.0 and 7.5",
+    "climate": "Tropical or subtropical climate with temperatures between 25°C to 35°C and moderate rainfall",
+    "pollination": "Black gram is self-pollinating, so pollination is not a concern for cultivation.",
+    "space": "Sufficient spacing between plants for growth and airflow, typically 5-10 cm apart."
+  },
+  "average_temperature": {
+    "spring": "75°F to 95°F (24°C to 35°C)",
+    "summer": "80°F to 100°F (27°C to 38°C)",
+    "fall": "75°F to 95°F (24°C to 35°C)",
+    "winter": "65°F to 80°F (18°C to 27°C)"
+  }
+}

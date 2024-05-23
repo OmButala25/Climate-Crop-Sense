@@ -1,0 +1,21 @@
+{
+  "chickpea_details": {
+    "description": "Chickpea, also known as garbanzo bean, is a legume known for its nutty flavor and versatility in cooking. It is a staple ingredient in many cuisines.",
+    "nutritional value": "Chickpeas are an excellent source of plant-based protein, dietary fiber, vitamins, and minerals. They support digestive health, heart health, and blood sugar control.",
+    "cultivation": "Chickpeas are primarily grown in arid and semi-arid regions with well-drained soil. They require warm temperatures during the growing season and are tolerant of drought.",
+    "varieties": "Kabuli chickpea, Desi chickpea",
+    "uses": "Soups, Salads, Curries, Hummus"
+  },
+  "prerequisites": {
+    "soil": "Well-drained, sandy or loamy soil with pH between 6.0 and 7.5",
+    "climate": "Warm and dry climate with temperatures between 70°F to 85°F (21°C to 29°C) during the growing season",
+    "water": "Chickpeas are drought-tolerant but require occasional watering, especially during flowering and pod formation.",
+    "frost": "Chickpeas are sensitive to frost, so they should be planted after the last frost date.",
+    "space": "Sufficient spacing between plants, typically 4-6 inches apart in rows spaced 12-18 inches apart."
+  },
+  "average_temperature": {
+    "spring": "60°F to 75°F (16°C to 24°C)",
+    "summer": "70°F to 85°F (21°C to 29°C)",
+    "fall": "60°F to 75°F (16°C to 24°C)"
+  }
+}

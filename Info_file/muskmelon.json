@@ -1,0 +1,22 @@
+{
+  "muskmelon_details": {
+    "description": "Muskmelon, also known as cantaloupe or sweet melon, is a type of fruit belonging to the Cucurbitaceae family. It is characterized by its sweet, juicy flesh and netted or ribbed skin.",
+    "nutritional value": "Muskmelons are rich in vitamins A and C, as well as potassium and dietary fiber. They are low in calories and contain antioxidants that promote overall health.",
+    "uses": "Fresh consumption, Fruit salads, Smoothies, Sorbet, Cocktails",
+    "varieties": "Crenshaw, Honeydew, Casaba, Gallicum, Persian",
+    "ripening": "Muskmelons continue to ripen after being harvested, so they are typically harvested when they are mature but still firm and allowed to ripen at room temperature.",
+    "ripeness indicator": "A ripe muskmelon will have a sweet aroma, yield slightly to gentle pressure at the blossom end, and have a golden-yellow color underneath the netting."
+  },
+  "prerequisites": {
+    "soil": "Muskmelons prefer well-drained, sandy or loamy soil with good organic matter content.",
+    "climate": "Muskmelons thrive in warm climates with temperatures between 70°F to 90°F (21°C to 32°C) during the growing season.",
+    "sunlight": "Muskmelons require full sunlight for optimal growth and fruit development.",
+    "water": "Regular watering, especially during flowering and fruit development, to keep the soil consistently moist but not waterlogged.",
+    "space": "Plant muskmelon seeds or seedlings about 1 inch deep and 36 to 48 inches apart in rows spaced 6 to 8 feet apart."
+  },
+  "average_temperature": {
+    "spring": "70°F to 80°F (21°C to 27°C)",
+    "summer": "75°F to 85°F (24°C to 29°C)",
+    "fall": "70°F to 80°F (21°C to 27°C)"
+  }
+}

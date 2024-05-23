@@ -1,0 +1,21 @@
+{
+  "lentil_details": {
+    "description": "Lentils are edible legumes known for their lens-shaped seeds. They come in various colors such as green, brown, red, and black, each with its own flavor and culinary uses.",
+    "nutritional value": "Lentils are rich in protein, dietary fiber, vitamins, and minerals. They are low in fat and cholesterol, making them a healthy addition to a balanced diet.",
+    "uses": "Soups, Stews, Curries, Salads, Side dishes",
+    "varieties": "Green lentils, Brown lentils, Red lentils, Black lentils, French green lentils (Puy lentils)"
+  },
+  "prerequisites": {
+    "soil": "Well-drained soil with good moisture retention, preferably sandy loam or loamy soil.",
+    "climate": "Lentils thrive in cool to warm climates with temperatures between 60°F to 70°F (15°C to 21°C) during the growing season.",
+    "water": "Lentils require moderate watering, keeping the soil consistently moist but not waterlogged.",
+    "frost": "Lentils are tolerant of light frost, but they should be planted after the last frost date for optimal growth.",
+    "space": "Plant lentil seeds about 1 to 1.5 inches deep and 2 to 4 inches apart in rows spaced 18 to 24 inches apart."
+  },
+  "average_temperature": {
+    "spring": "55°F to 65°F (13°C to 18°C)",
+    "summer": "60°F to 70°F (15°C to 21°C)",
+    "fall": "55°F to 65°F (13°C to 18°C)"
+  }
+}
+

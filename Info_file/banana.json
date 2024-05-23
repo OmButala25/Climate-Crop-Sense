@@ -1,0 +1,21 @@
+{
+  "banana_details": {
+    "description": "Banana is a tropical fruit known for its elongated shape, sweet flavor, and creamy texture. It is one of the most widely consumed fruits globally.",
+    "nutritional value": "Bananas are rich in potassium, vitamin C, vitamin B6, and dietary fiber. They provide instant energy and support heart health.",
+    "cultivation": "Bananas are grown in tropical regions with warm climates and high humidity. They require well-drained, fertile soil and regular watering.",
+    "varieties": "Cavendish, Lady Finger (or Finger Banana), Plantain, Red Banana, Burro Banana",
+    "uses": "Fresh consumption, Smoothies, Baking, Frying (plantains)"
+  },
+  "prerequisites": {
+    "soil": "Well-drained, fertile soil with organic matter content",
+    "climate": "Tropical climate with consistent temperatures above 60°F (16°C) and high humidity",
+    "pollination": "Bananas are typically propagated by rhizomes, so pollination is not a concern for fruit production.",
+    "space": "Sufficient space for plant growth, typically 6-10 feet apart for planting."
+  },
+  "average_temperature": {
+    "spring": "70°F to 90°F (21°C to 32°C)",
+    "summer": "75°F to 95°F (24°C to 35°C)",
+    "fall": "70°F to 90°F (21°C to 32°C)",
+    "winter": "65°F to 85°F (18°C to 29°C)"
+  }
+}

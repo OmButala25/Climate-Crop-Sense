@@ -1,0 +1,20 @@
+{
+  "moth_beans_details": {
+    "description": "Moth beans, also known as matki or Turkish gram, are small, drought-resistant legumes commonly grown in arid and semi-arid regions. They are cultivated for their edible seeds, which are rich in protein and other nutrients.",
+    "nutritional value": "Moth beans are a good source of protein, dietary fiber, vitamins, and minerals. They are low in fat and high in complex carbohydrates, making them a nutritious addition to the diet.",
+    "uses": "Cooking (curries, stews, soups), Sprouting, Flour production",
+    "varieties": "Regular moth beans, Sprouting moth beans"
+  },
+  "prerequisites": {
+    "soil": "Moth beans prefer well-drained sandy loam soil with good fertility.",
+    "climate": "Moth beans thrive in hot and dry climates, with temperatures ranging from 70°F to 95°F (21°C to 35°C) during the growing season.",
+    "water": "Moth beans are drought-tolerant but require occasional watering, especially during flowering and pod formation.",
+    "frost": "Moth beans are sensitive to frost and should be planted after the last frost date.",
+    "space": "Plant moth bean seeds about 1 to 2 inches deep and 4 to 6 inches apart in rows spaced 12 to 18 inches apart."
+  },
+  "average_temperature": {
+    "spring": "70°F to 80°F (21°C to 27°C)",
+    "summer": "80°F to 95°F (27°C to 35°C)",
+    "fall": "70°F to 80°F (21°C to 27°C)"
+  }
+}

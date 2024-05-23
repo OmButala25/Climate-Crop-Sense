@@ -1,0 +1,24 @@
+{
+  "coffee_details": {
+    "description": "Coffee is a popular beverage made from the roasted seeds (coffee beans) of the Coffea plant. It is enjoyed worldwide for its rich flavor, aroma, and stimulating effects.",
+    "cultivation": "Coffee plants thrive in tropical and subtropical regions with well-drained soil, high altitude, and consistent rainfall. They require shade during the early stages of growth and sunlight for fruit development.",
+    "varieties": "Arabica, Robusta, Liberica, Excelsa",
+    "processing methods": "Washed (wet) process, Natural (dry) process, Honey process",
+    "uses": "Beverage, Flavoring, Cooking, Cosmetics"
+  },
+  "prerequisites": {
+    "soil": "Rich, well-drained soil with pH between 6.0 and 6.5",
+    "climate": "Tropical or subtropical climate with temperatures between 60°F to 70°F (15°C to 24°C) and rainfall evenly distributed throughout the year",
+    "altitude": "Ideal altitude varies by variety, but generally between 2,000 to 6,000 feet (600 to 1,800 meters) above sea level for Arabica, and lower for Robusta.",
+    "sunlight": "Coffee plants require ample sunlight, but some shade during the early stages of growth helps prevent sunburn.",
+    "water": "Consistent rainfall or irrigation to maintain soil moisture, especially during flowering and fruit development.",
+    "frost": "Protection from frost, as coffee plants are sensitive to low temperatures.",
+    "space": "Spacing varies by variety and cultivation method, typically 6-10 feet apart for planting."
+  },
+  "average_temperature": {
+    "spring": "60°F to 70°F (15°C to 24°C)",
+    "summer": "65°F to 75°F (18°C to 24°C)",
+    "fall": "60°F to 70°F (15°C to 24°C)",
+    "winter": "55°F to 65°F (13°C to 18°C)"
+  }
+}

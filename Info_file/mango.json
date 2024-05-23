@@ -1,0 +1,20 @@
+{
+  "mango_details": {
+    "description": "Mango is a tropical fruit known for its sweet, juicy flesh and distinctive aroma. It is one of the most popular fruits worldwide and comes in various cultivars with different flavors, shapes, and sizes.",
+    "nutritional value": "Mangoes are rich in vitamins A, C, and E, as well as dietary fiber and antioxidants. They support immune health, promote digestion, and may have anti-inflammatory properties.",
+    "uses": "Fresh consumption, Juices, Smoothies, Salsas, Chutneys, Desserts",
+    "varieties": "Alphonso, Kent, Tommy Atkins, Haden, Ataulfo (Honey mango), Keitt, Francis"
+  },
+  "prerequisites": {
+    "soil": "Well-drained, sandy or loamy soil with good organic matter content",
+    "climate": "Tropical to subtropical climate with warm temperatures and high humidity",
+    "sunlight": "Mango trees require full sunlight for optimal growth and fruit production.",
+    "water": "Regular watering, especially during flowering and fruit development, but avoid waterlogging.",
+    "space": "Mango trees should be spaced at least 30 to 40 feet apart, as they can grow into large trees."
+  },
+  "average_temperature": {
+    "spring": "70°F to 85°F (21°C to 29°C)",
+    "summer": "75°F to 90°F (24°C to 32°C)",
+    "fall": "70°F to 85°F (21°C to 29°C)"
+  }
+}

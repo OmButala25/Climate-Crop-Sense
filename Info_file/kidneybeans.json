@@ -1,0 +1,20 @@
+{
+  "kidney_beans_details": {
+    "description": "Kidney beans are a type of common bean known for their distinctive kidney shape and rich flavor. They are popular in cuisines around the world and are prized for their nutritional value.",
+    "nutritional value": "Kidney beans are an excellent source of plant-based protein, dietary fiber, vitamins, and minerals. They support heart health, aid digestion, and help regulate blood sugar levels.",
+    "uses": "Soups, Stews, Chilis, Salads, Burgers, Dips",
+    "varieties": "Red kidney beans, Light red kidney beans, Dark red kidney beans"
+  },
+  "prerequisites": {
+    "soil": "Well-drained, loamy soil with a pH between 6.0 and 7.5",
+    "climate": "Warm temperatures with a growing season of at least 60 to 90 days, and frost-free conditions.",
+    "water": "Regular watering, especially during flowering and pod development, but avoid waterlogging.",
+    "frost": "Kidney beans are sensitive to frost, so they should be planted after the last frost date.",
+    "space": "Plant seeds or seedlings about 2 inches deep and 4 to 6 inches apart in rows spaced 18 to 36 inches apart."
+  },
+  "average_temperature": {
+    "spring": "60°F to 70°F (15°C to 21°C)",
+    "summer": "70°F to 80°F (21°C to 27°C)",
+    "fall": "60°F to 70°F (15°C to 21°C)"
+  }
+}

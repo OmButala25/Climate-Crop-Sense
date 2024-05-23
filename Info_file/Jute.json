@@ -1,0 +1,18 @@
+{
+  "jute_details": {
+    "description": "Jute is a long, soft, shiny vegetable fiber that can be spun into coarse, strong threads. It is one of the most affordable natural fibers and is second only to cotton in terms of production quantity.",
+    "uses": "Sacking, Cloth, Geo-textiles, Hessian, Rugs, Carpet backing"
+  },
+  "prerequisites": {
+    "soil": "Jute grows well in well-drained fertile soils, particularly loams and clay loams.",
+    "climate": "Jute requires a warm and humid climate with temperatures between 70°F to 100°F (21°C to 38°C) and an annual rainfall of 1500 to 2500 mm.",
+    "water": "Jute needs regular and adequate watering, particularly during the growing season.",
+    "frost": "Jute is sensitive to frost, so it should be cultivated in frost-free areas.",
+    "space": "Spacing of jute plants depends on the variety and cultivation method, typically with rows spaced about 20 to 25 cm apart."
+  },
+  "average_temperature": {
+    "spring": "70°F to 85°F (21°C to 29°C)",
+    "summer": "75°F to 90°F (24°C to 32°C)",
+    "fall": "70°F to 85°F (21°C to 29°C)"
+  }
+}

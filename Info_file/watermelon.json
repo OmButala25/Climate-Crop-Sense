@@ -1,0 +1,23 @@
+{
+  "watermelon_details": {
+    "description": "Watermelon is a large, vine-like flowering plant originally from southern Africa. It is prized for its juicy, sweet flesh and high water content, making it a popular summertime fruit.",
+    "nutritional value": "Watermelon is low in calories and fat but high in vitamins A and C, as well as antioxidants like lycopene. It helps to keep the body hydrated and supports overall health.",
+    "uses": "Fresh consumption, Juicing, Salads, Sorbet, Smoothies",
+    "varieties": "Crimson Sweet, Sugar Baby, Charleston Gray, Yellow Doll, Orangeglo",
+    "harvesting": "Watermelons are typically harvested when the underside of the fruit turns yellow or cream-colored and the stem begins to dry out.",
+    "ripeness indicator": "A ripe watermelon will have a hollow sound when tapped, a firm texture, and a dull, matte appearance on the rind.",
+    "harvest season": "Watermelons are harvested in the summer months, usually from late June to early September, depending on the region and variety."
+  },
+  "prerequisites": {
+    "soil": "Watermelons prefer well-drained, sandy or loamy soil with good fertility and a slightly acidic to neutral pH (around 6.0 to 7.0).",
+    "climate": "Watermelons thrive in warm climates with temperatures between 70°F to 90°F (21°C to 32°C) during the growing season.",
+    "sunlight": "Watermelons require full sunlight for optimal growth and fruit development.",
+    "water": "Watermelons need regular watering, especially during flowering and fruit development, to keep the soil consistently moist but not waterlogged.",
+    "space": "Plant watermelon seeds or seedlings in hills or rows with spacing ranging from 3 to 5 feet apart."
+  },
+  "average_temperature": {
+    "spring": "70°F to 80°F (21°C to 27°C)",
+    "summer": "80°F to 90°F (27°C to 32°C)",
+    "fall": "70°F to 80°F (21°C to 27°C)"
+  }
+}

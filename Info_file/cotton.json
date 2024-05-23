@@ -1,0 +1,18 @@
+{
+  "cotton_details": {
+    "description": "Cotton is a soft, fluffy fiber that grows in protective cases around the seeds of the cotton plant. It is one of the most important commercial crops worldwide, used primarily in the textile industry.",
+    "uses": "Textiles, Clothing, Bedding, Medical supplies, Industrial products (e.g., canvas, upholstery)"
+  },
+  "prerequisites": {
+    "soil": "Well-drained soil with good moisture retention, typically sandy loam or clay loam",
+    "climate": "Warm temperatures (around 70°F to 95°F or 21°C to 35°C), plenty of sunshine, and moderate rainfall (around 20 to 40 inches annually)",
+    "frost_free_period": "Cotton requires a frost-free growing season of at least 160 to 200 days.",
+    "water": "While cotton is drought-tolerant, it requires sufficient water during critical growth stages, especially flowering and boll development.",
+    "space": "Adequate spacing between plants for air circulation and sunlight penetration, typically planted in rows with spacing ranging from 30 to 40 inches apart."
+  },
+  "average_temperature": {
+    "spring": "65°F to 75°F (18°C to 24°C)",
+    "summer": "75°F to 85°F (24°C to 29°C)",
+    "fall": "65°F to 75°F (18°C to 24°C)"
+  }
+}
